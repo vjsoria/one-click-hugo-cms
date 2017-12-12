@@ -1,3 +1,4 @@
+baseURL = "https://cms.rimaclabs.xyz"
 [build]
   command = "yarn build"
   publish = "dist"
